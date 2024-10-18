@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LikeView">
+        <attr name="startDrawable" format="reference"/>
+        <attr name="endDrawable" format="reference"/>
+        <attr name="dotsColor" format="color"/>
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+    </declare-styleable>
+</resources>
